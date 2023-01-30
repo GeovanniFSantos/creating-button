@@ -1,0 +1,14 @@
+body {
+    background-color: aqua;
+}
+.grupo_botoes {
+    text-align: center;
+    background-color: brown;
+    border-radius: 50%;
+}
+.img_personagem {
+    width: 10rem;
+    margin: 50px;
+    background-color: brown;
+    border-radius: 50%;
+}
